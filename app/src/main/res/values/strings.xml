@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RSA</string>
+
+    <!--秘钥长度为2048最多245字节数据,秘钥长度为1024最多117字节数据-->
+    <string name="rsa_test_data">加密最多(秘钥长度/8-11)个字节的数据，2048为245,1024为117。</string>
+
+    <string name="rsa_data_max">B5oYHN8e9SpdAHZs46lcGXgCtvLjONXousdBht8OO8aP5C4oPxi/b9+2X/ZkpUuYB5oYHN8e9SpdAHZs46lcGXgCtvLjONXousdBht8OO8aP5C4oPxi/b9+2X/ZkpUuRB5oYHN8e9SpdAHZs46lcGXgCtvLjONXousdBht8OO8aP5C4oPxi/b9+2X/ZkpUuZB5oYHN8e9SpdAHZs46lcGXgCtvLONXousdBht8OO8aP55C4oPxier</string>
+
+
+
+</resources>
